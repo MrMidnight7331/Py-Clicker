@@ -11,6 +11,11 @@ Py-Clicker is a autoclicker written in Python using the Pyautogui module. Usage 
 
 # Example
 
+https://github.com/MrMidnight7331/Py-Clicker/assets/112803556/3e3deb5b-85af-4760-ade8-27eb4caeb1ff
+
+# Disclaimer
+
+This script has been made for educational purposes! The Creator is NOT responsible for what you do with this script!.
 
 # Socials
 
