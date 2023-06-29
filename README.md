@@ -3,6 +3,8 @@
 Py-Clicker is a autoclicker written in Python using the Pyautogui module. Usage is very simple, just clone the repository and make sure you have Pyhonn installed! Enjoy
 
 # Usage 
+`pip3 install pyautogui`
+
 `git clone https://github.com/MrMidnight7331/Py-Clicker`
 
 `cd Py-Clicker`
